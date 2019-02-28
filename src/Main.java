@@ -39,7 +39,12 @@ public class Main {
             System.out.println("\nThat is invalid input, so run the program again, please :) ");
         }
     }
+	
+	public static void useLessMethod()
+	{
+		System.out.println("i am useless");
 
+}
 }
 
 
