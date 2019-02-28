@@ -42,7 +42,7 @@ public class Main {
 	
 	public static void useLessMethod()
 	{
-		System.out.println("i am useless");
+		System.out.println("i am useless and extra s");
 
 }
 }
