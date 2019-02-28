@@ -37,6 +37,7 @@ public class Main {
         }
         else {
             System.out.println("\nThat is invalid input, so run the program again, please :) ");
+            System.out.println("i love nechemia");
         }
     }
 
