@@ -38,8 +38,8 @@ public class Main {
         else {
             System.out.println("\nThat is invalid input, so run the program again, please :) ");
         }
-
-	System.out.println("Sout for life")
+      
+	System.out.println("Peacocks are just gay turkeys, change my mind")
     }
 
 }
