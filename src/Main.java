@@ -33,7 +33,7 @@ public class Main {
             System.out.println("\nThis is the correct choice");
         }
         else if (numero == 0) {
-            System.out.println("\nGitHub is sad now...");
+            System.out.println("\nThis is the WRONG choice...");
         }
         else {
             System.out.println("\nThat is invalid input, so run the program again, please :) ");
