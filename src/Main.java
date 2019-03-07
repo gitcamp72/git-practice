@@ -41,7 +41,12 @@ public class Main {
       
 	System.out.println("Peacocks are just gay turkeys, change my mind")
     }
+	
+	public static void useLessMethod()
+	{
+		System.out.println("i am useless and extra s");
 
+}
 }
 
 
